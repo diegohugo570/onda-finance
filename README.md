@@ -72,7 +72,7 @@ O projeto segue princípios de Clean Code, separação de responsabilidades e co
 
 🚀 Melhorias Futuras
 
--Integração com backend real (API REST)
+- Integração com backend real (API REST)
 - Implementação de autenticação JWT com cookies httpOnly
 - Modo escuro (Dark Mode)
 - Animações com Framer Motion
