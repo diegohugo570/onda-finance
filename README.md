@@ -9,19 +9,20 @@ Este projeto foi desenvolvido com foco em boas práticas de engenharia de softwa
 ---
 
 🚀 Tecnologias Utilizadas
-React 18
-TypeScript
-Vite
-TailwindCSS
-shadcn/ui (Radix UI)
-React Router DOM
-TanStack Query (React Query)
-Zustand
-React Hook Form
-Zod
-Axios
-Vitest
-React Testing Library
+
+- React 18
+- TypeScript
+- Vite
+- TailwindCSS
+- shadcn/ui (Radix UI)
+- React Router DOM
+- TanStack Query (React Query)
+- Zustand
+- React Hook Form
+- Zod
+- Axios
+- Vitest
+- React Testing Library
 
 ---
 
@@ -48,7 +49,9 @@ A aplicação estará disponível em:
 http://localhost:5173
 ```
 🔑 Dados de Acesso (Mock)
+
 Email: user@onda.finance
+
 Senha: 123456
 
 ---
