@@ -28,7 +28,7 @@ React Testing Library
 ⚙️ Como Rodar o Projeto Localmente
 
 1️⃣ Clonar o Repositório
-bash
+
 ```
 git clone <url-do-repositorio>
 cd onda-finance
